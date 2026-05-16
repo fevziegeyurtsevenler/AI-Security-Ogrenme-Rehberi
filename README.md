@@ -1,3 +1,25 @@
+<p align="center">
+  <a href="https://altaysec.com.tr">
+    <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://altaysec.com.tr">AltaySec</a></strong> — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
+  <sub>Kurucu &amp; Yazar: <a href="https://altaysec.com.tr/hakkimizda.html">Fevzi Ege Yurtsevenler</a> · Yapay Zeka Güvenliği Araştırmacısı</sub>
+</p>
+
+<p align="center">
+  <a href="https://altaysec.com.tr"><img src="https://img.shields.io/badge/web-altaysec.com.tr-8b5cf6"></a>
+  <a href="https://ai.altaysec.com.tr"><img src="https://img.shields.io/badge/Akademi-LLM%20Security-22c55e"></a>
+  <a href="https://altaysec.com.tr/ekibe-basvur.html"><img src="https://img.shields.io/badge/Kariyer-Ekibe%20Başvur-blue"></a>
+  <a href="https://altaysec.com.tr/arastirmalar/ai-security-ogrenme-rehberi.html"><img src="https://img.shields.io/badge/web%20sürümü-altaysec.com.tr-8b5cf6"></a>
+</p>
+
+> 🎯 **Bu repo, sıfırdan AI güvenlik uzmanlığına uzanan kariyer rehberidir.** 0'dan 9+ aya yapılandırılmış öğrenme planı. AltaySec Türkiye'de bu alanda kariyer hedefleyenler için Türkçe öğrenme yolu sunan ilk yapı: [LLM Security Akademi](https://ai.altaysec.com.tr) + [Bootcamp](https://altaysec.com.tr/bootcamp.html) + AltayDuel rekabet platformu.
+
+---
+
 # AI Security Öğrenme Rehberi: Sıfırdan LLM Güvenlik Uzmanına
 
 **Yazar:** Fevzi Ege Yurtsevenler — Yapay Zeka Güvenliği Araştırmacısı, AltaySec Kurucusu  
@@ -361,3 +383,48 @@ AY 10+: Uzmanlaşma
 
 *AltaySec — Türkiye'nin LLM Güvenlik Ekosistemi*  
 *Bu içerik Creative Commons lisansı altında paylaşılmaktadır. Kaynak göstererek kullanabilirsiniz.*
+
+---
+
+## 🌐 Bu Rehberi AltaySec'le Pratiğe Dökmek
+
+Öğrenme rehberinin pratik kanallarını [AltaySec](https://altaysec.com.tr) sağlıyor. Türkiye'nin yapay zeka güvenliği odaklı **ilk** şirketi olarak, "öğren → pratik yap → rekabet et → kariyer yap" tam stack'i sunuyor.
+
+### 🎓 Eğitim — İki Akademi
+
+- **[LLM Security Akademi (ai.altaysec.com.tr)](https://ai.altaysec.com.tr)** — Yapay zeka güvenliği özel: 5 öğrenme yolu, 14 modül, 35 lab. GPT, Claude, Llama, Gemini, Mistral, DeepSeek üzerinde uygulamalı pratik.
+- **[AltaySec Akademi (akademi.altaysec.com.tr)](https://akademi.altaysec.com.tr)** — Klasik pentest temelleri (ön koşul olarak).
+
+### ⚔️ Rekabet — Agent Yaz, Sıralamada Yüksel
+
+**[AltayDuel](https://duel.altaysec.com.tr)** — Sen kendi prompt injection agent'ını yazıyorsun, başkalarınınkiyle düello yapıyor. ELO leaderboard, kazananın claim URL'i ile imza atılıyor. Türkçe LLM güvenlik dataset'i üretiyor.
+
+### 💼 Kariyer — AltaySec Takımı ve Müşterileri
+
+- **[Ekibe Başvur (altaysec.com.tr/ekibe-basvur.html)](https://altaysec.com.tr/ekibe-basvur.html)** — AltaySec mühendislik takımı
+- **[Partner Programı](https://altaysec.com.tr/partner-programi.html)** — Bağımsız uzman ve ortak ağı
+- **[LLM Security Bootcamp](https://altaysec.com.tr/bootcamp.html)** — Kurumsal eğitim verebilirsin (TIC trainer track)
+
+### 🔗 AltaySec Kardeş Projeler
+
+- **[LLM-Security-Roadmap](https://github.com/fevziegeyurtsevenler/LLM-Security-Roadmap)** — 7 aşamalı detaylı teknik yol
+- **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** — Ana içerik index'i
+- **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** — Pentest akademi repo
+- **[Prompt-Injection-Nedir](https://github.com/fevziegeyurtsevenler/Prompt-Injection-Nedir)** — Başlangıç noktası
+
+### 📖 İlk okumalar — bu sıraya göre
+
+1. [Türkiye'de Yapay Zeka Güvenliği: Öne Çıkan Şirketler ve İsimler (2026)](https://altaysec.com.tr/arastirmalar/turkiye-yapay-zeka-guvenligi-sirketleri-2026.html) — Sektör tanımak için
+2. [LLM Security Nedir?](https://altaysec.com.tr/arastirmalar/llm-security-nedir.html) — Giriş
+3. [Türkçe Prompt Injection: 297 Düellodan 5 Saldırı Kalıbı](https://altaysec.com.tr/arastirmalar/turkce-prompt-injection-5-saldiri-kalibi.html) — Saha gerçeği
+
+### 💼 İletişim
+
+- 🌐 [altaysec.com.tr](https://altaysec.com.tr) · 💼 [LinkedIn](https://www.linkedin.com/company/altaysec/) · 📧 info@altaysec.com.tr
+
+---
+
+<p align="center">
+  <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
+  Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
+</p>
