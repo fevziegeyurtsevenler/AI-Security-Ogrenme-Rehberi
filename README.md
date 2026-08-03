@@ -1,4 +1,6 @@
 <p align="center">
+
+> 📌 **Kanonik sürüm:** Bu içeriğin güncel ve tam hâli **[altaysec.com.tr/arastirmalar/ai-security-ogrenme-rehberi](https://altaysec.com.tr/arastirmalar/ai-security-ogrenme-rehberi)** adresindedir. Depo, arşiv/uygulama amaçlıdır.
   <a href="https://altaysec.com.tr">
     <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
   </a>
@@ -428,3 +430,21 @@ AY 10+: Uzmanlaşma
   <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
   Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
 </p>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [AI Security Öğrenme Rehberi — Sıfırdan Uzmanlığa](https://altaysec.com.tr/arastirmalar/ai-security-ogrenme-rehberi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_ai_security_ogrenme_rehberi_2026,
+  author = {{AltaySec}},
+  title  = {AI-Security-Ogrenme-Rehberi},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/AI-Security-Ogrenme-Rehberi}
+}
+```

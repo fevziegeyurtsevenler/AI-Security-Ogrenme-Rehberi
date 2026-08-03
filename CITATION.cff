@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Bu depoyu kullanırsanız lütfen atıf verin."
+title: "AI-Security-Ogrenme-Rehberi"
+authors:
+  - name: "AltaySec"
+url: "https://altaysec.com.tr"
+repository-code: "https://github.com/fevziegeyurtsevenler/AI-Security-Ogrenme-Rehberi"
+date-released: "2026-08-03"
