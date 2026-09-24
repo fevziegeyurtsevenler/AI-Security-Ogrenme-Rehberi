@@ -395,7 +395,7 @@ AY 10+: Uzmanlaşma
 ### 🎓 Eğitim — İki Akademi
 
 - **[LLM Security Akademi (ai.altaysec.com.tr)](https://ai.altaysec.com.tr)** — Yapay zeka güvenliği özel: 5 öğrenme yolu, 14 modül, 35 lab. GPT, Claude, Llama, Gemini, Mistral, DeepSeek üzerinde uygulamalı pratik.
-- **[AltaySec Akademi (akademi.altaysec.com.tr)](https://akademi.altaysec.com.tr)** — Klasik pentest temelleri (ön koşul olarak).
+- **[AltaySec Akademi (akademi.altaysec.com.tr)](https://akademi.altaysec.com.tr)** — Genel siber güvenlik temelleri, 12 öğrenme yolu; [AI Güvenliği yolu](https://akademi.altaysec.com.tr/yollar/ai-guvenligi) dahil (ön koşul olarak).
 
 ### ⚔️ Rekabet — Agent Yaz, Sıralamada Yüksel
 
@@ -411,7 +411,7 @@ AY 10+: Uzmanlaşma
 
 - **[LLM-Security-Roadmap](https://github.com/fevziegeyurtsevenler/LLM-Security-Roadmap)** — 7 aşamalı detaylı teknik yol
 - **[LLM-Security-Turkiye](https://github.com/fevziegeyurtsevenler/LLM-Security-Turkiye)** — Ana içerik index'i
-- **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** — Pentest akademi repo
+- **[AltaySec-Akademi](https://github.com/fevziegeyurtsevenler/AltaySec-Akademi)** — Siber güvenlik akademi repo
 - **[Prompt-Injection-Nedir](https://github.com/fevziegeyurtsevenler/Prompt-Injection-Nedir)** — Başlangıç noktası
 
 ### 📖 İlk okumalar — bu sıraya göre
